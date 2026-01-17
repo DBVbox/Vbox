@@ -1,0 +1,6 @@
+.vscode/
+baselines/
+build/
+monosat/
+kissat/
+cadical/
